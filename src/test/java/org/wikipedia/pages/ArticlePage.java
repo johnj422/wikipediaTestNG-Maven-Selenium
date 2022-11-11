@@ -13,7 +13,7 @@ public class ArticlePage extends BasePage{
     @FindBy(css = ".listaref ol li")
     private List<WebElement> references;
 
-    @FindBy(className = "onfobox")
+    @FindBy(className = "infobox")
     private WebElement sideInfoBox;
 
     public ArticlePage(WebDriver driver) {
