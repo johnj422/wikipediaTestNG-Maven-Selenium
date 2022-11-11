@@ -10,7 +10,7 @@
     <test name="Search article test">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="org.wikipedia.tests.SearchArticlePage"/>
+            <class name="org.wikipedia.tests.SearchArticleTest"/>
         </classes>
     </test>
 </suite>
