@@ -3,7 +3,7 @@ package org.wikipedia.reporting;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Reporter {
+public final class Reporter {
 
     public Reporter() {
     }
